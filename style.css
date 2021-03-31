@@ -47,7 +47,7 @@ a:hover {
 
 .code-btn:hover{
   border-radius: 20px;
-  box-shadow: 0 0 25px red;
+  box-shadow: 0 0 25px blue;
   transition: all 0.3s ease 0s;
 }
 
