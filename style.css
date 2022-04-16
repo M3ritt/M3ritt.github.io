@@ -12,6 +12,12 @@ h5{
     font-size: 12px;
 }
 
+h6
+{
+    font-size: 12px;
+    font-style: italic;
+}
+
 .skill-heading{
     size:24px;
     text-align: center;
