@@ -1,6 +1,6 @@
 # M3ritt.github.io
 
-<a href = "https://m3ritt.github.io" target = "_blank">This</a> is a small portfolio I made to showcase some of the past work that I have done as well as show off some of the skills that I feel most prominent with. 
+<a href = "https://m3ritt.github.io" target = "_blank">This</a> is a small portfolio I made to brag a little about the experiences and work that I have seen as my time as a programmer throughout college and my work. 
 
 The website is broken up into a few sections that include:
 <ul>
